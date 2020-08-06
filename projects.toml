@@ -1,0 +1,534 @@
+[[project]]
+name = "howmanypeoplearearound"
+language = "python"
+tag = "sensor"
+description = "A python package to count the number of people around you by monitoring wifi signals"
+type = "tool"
+
+[[project]]
+name = "find3"
+language = "go"
+tag = "sensor"
+description = "A framework for high-precision indoor positioniing based on wifi and bluetooth signals."
+type = "website"
+
+[[project]]
+name = "croc"
+language = "go"
+tag = "file-sharing"
+description = "A program for easily and securely transfering files between any two computers."
+type = "tool"
+
+[[project]]
+name = "hostyoself"
+language = "go"
+tag = "file-sharing"
+description = "A website that allows you to share files directly from your browser."
+type = "website"
+
+[[project]]
+name = "rwtxt"
+language = "go"
+tag = "cms"
+description = "A minimalist cms that allows easy writing and reading."
+type = "website"
+
+[[project]]
+name = "cowyo"
+language = "go"
+tag = "cms"
+description = "A cms for single pages that can be encrypted and self-destructed."
+type = "website"
+
+[[project]]
+name = "raspberry-pi-turnkey"
+language = "python"
+tag = "raspberry-pi"
+description = "Instructions for adding a wifi hotspot to a Raspberry Pi to connected to any wifi network."
+type = "instruction"
+
+
+[[project]]
+name = "peerdiscovery"
+language = "go"
+tag = "p2p"
+description = "A Go library that allows cross-platform local peer discovery using UDP multicast."
+type = "package"
+
+[[project]]
+name = "closestmatch"
+language = "go"
+tag = "strings"
+description = "A Go library that does fuzzy matching on a set of strings."
+type = "package"
+
+[[project]]
+name = "PIanoAI"
+language = "go"
+tag = "ai"
+description = "A real-time piano playing AI."
+type = "tool"
+
+[[project]]
+name = "poetry-generator"
+language = "python"
+tag = "ai"
+description = "A poetry generating AI."
+type = "website"
+
+[[project]]
+name = "pluck"
+language = "go"
+tag = "strings"
+description = "A Go library to do regex-like searching on strings."
+type = "package"
+
+[[project]]
+name = "offlinenotepad"
+language = "go"
+tag = "cms"
+description = "An off-line first, secure, private notepad."
+type = "website"
+
+[[project]]
+name = "playlistfromsong"
+language = "python"
+tag = "music"
+description = "A program that generates an offline playlist from a single song."
+type = "tool"
+
+[[project]]
+name = "spotifydownload"
+language = "go"
+tag = "music"
+description = "A dependency-free Spotify playlist downloader."
+type = "tool"
+
+
+[[project]]
+name = "jsonstore"
+language = "go"
+tag = "keystore"
+description = "Simple thread-safe in-memory JSON key-store with persistent backend."
+type = "package"
+
+[[project]]
+name = "recursive-recipes"
+language = "go"
+tag = "recipe"
+description = "Visualize the recursive nature of recipes."
+type = "website"
+
+[[project]]
+name = "linkcrawler"
+language = "go"
+tag = "web"
+description = "Cross-platform persistent and distributed web crawler."
+type = "tool"
+
+[[project]]
+name = "find3-cli-scanner"
+language = "go"
+tag = "sensor"
+description = "A command-line scanner that supports Bluetooth and WiFi."
+type = "tool"
+
+[[project]]
+name = "find3-android-scanner"
+language = "java"
+tag = "sensor"
+description = "An android app that scans Bluetooth and WiFi for FIND3."
+type = "tool"
+
+[[project]]
+name = "faas"
+language = "go"
+tag = "cloud"
+description = "A function-as-a-service that can make any Go function, anywhere, into an API."
+type = "api"
+
+[[project]]
+name = "getsong"
+language = "go"
+tag = "music"
+description = "Download any song mp3 with no dependencies except ffmpeg."
+type = "package"
+
+[[project]]
+name = "share"
+language = "go"
+tag = "file-sharing"
+description = "Simple file sharing from the browser and the command-line."
+type = "website"
+
+
+[[project]]
+name = "cowyodel"
+language = "go"
+tag = "file-sharing"
+description = "Easily move things between computers with a code phrase and cowyo.com."
+type = "tool"
+
+[[project]]
+name = "crawdad"
+language = "go"
+tag = "web"
+description = "Cross-platform persistent and distributed web crawler."
+type = "tool"
+
+
+[[project]]
+name = "teoperator"
+language = "go"
+tag = "music"
+description = "Make OP-1 and OP-Z drum and synth patches from any sound."
+type = "website"
+
+
+[[project]]
+name = "pake"
+language = "go"
+tag = "math"
+description = "PAKE library for generating a strong secret between parties over an insecure channel."
+type = "package"
+
+[[project]]
+name = "snaptext"
+language = "go"
+tag = "social"
+description = "A simple webapp to send and receive self-destructing messages in real-time."
+type = "website"
+
+[[project]]
+name = "kiki"
+language = "go"
+tag = "social"
+description = "An experimental social network that works offline."
+type = "website"
+
+[[project]]
+name = "chickencam"
+language = "go"
+tag = "raspberry-pi"
+description = "Instructions to build a Raspberry Pi powered chicken cam."
+type = "instruction"
+
+[[project]]
+name = "miti"
+language = "go"
+tag = "music"
+description = "miti is a musical instrument textual interface. Basically, its MIDI, but with human-readable text."
+type = "tool"
+
+
+[[project]]
+name = "onetwothree"
+language = "css"
+tag = "static-site"
+description = "A responsive and minimalist theme for Hugo."
+type = "package"
+
+
+[[project]]
+name = "ingredients"
+language = "go"
+tag = "recipe"
+description = "Extract recipe ingredients from any recipe website on the internet."
+type = "package"
+
+
+[[project]]
+name = "readable"
+language = "go"
+tag = "web"
+description = "Making web pages readable in a browser and in the command line ."
+type = "tool"
+
+
+[[project]]
+name = "markdown2tufte"
+language = "css"
+tag = "static-site"
+description = "Process markdown into a nice Tufte-like website"
+type = "tool"
+
+
+[[project]]
+name = "duct"
+language = "go"
+tag = "p2p"
+description = "A simple server to connect any input to another output."
+type = "api"
+
+
+
+[[project]]
+name = "httpfileserver"
+language = "go"
+tag = "web"
+description = "Wrapper for Golang http.FileServer that is faster (serving from memory) and uses less bandwidth (gzips when possible)."
+type = "package"
+
+
+[[project]]
+name = "wifiscan"
+language = "go"
+tag = "sensor"
+description = "A platform-independent WiFi scanning library for getting BSSID + RSSI."
+type = "package"
+
+[[project]]
+name = "websitechanges"
+language = "python"
+tag = "web"
+description = "Change detection with a simple Python script to email you whenever a website changes."
+type = "tool"
+
+
+[[project]]
+name = "sqlite3dump"
+language = "go"
+tag = "sql"
+description = "A Golang library for dumping SQL text from sqlite."
+type = "package"
+
+[[project]]
+name = "syncdir"
+language = "go"
+tag = "file-sharing"
+description = "A program to automatically discover peers and synchronize a folder."
+type = "tool"
+
+[[project]]
+name = "boltdb-server"
+language = "go"
+tag = "keystore"
+description = "Server and Go package for connecting to BoltDB databases."
+type = "api"
+
+[[project]]
+name = "quotation-explorer"
+language = "go"
+tag = "quotes"
+description = "Explore and search over 120,000 quotations, with the click of a mouse ."
+type = "website"
+
+
+[[project]]
+name = "squirrel"
+language = "go"
+tag = "web"
+description = "Like curl, or wget, but downloads directly go to a SQLite databse."
+type = "tool"
+
+
+[[project]]
+name = "anonfiction"
+language = "go"
+tag = "cms"
+description = "A CMS for reading and writing stories in a online magazine format."
+type = "website"
+
+[[project]]
+name = "browsersync"
+language = "go"
+tag = "web"
+description = "A simple live-reloading tool for developing HTML."
+type = "tool"
+
+[[project]]
+name = "zget"
+language = "go"
+tag = "web"
+description = "zget is a mashup of curl and wget with torrenting and better interop with Windows."
+type = "tool"
+
+[[project]]
+name = "logger"
+language = "go"
+tag = "logging"
+description = "Simplistic, opinionated logging for Golang."
+type = "package"
+
+[[project]]
+name = "heartbpm"
+language = "go"
+tag = "music"
+description = "Instructions for creating a system of controlling electronic instruments with heart rate."
+type = "instruction"
+
+[[project]]
+name = "golock"
+language = "go"
+tag = "file-system"
+description = "Very simple file locking with optional timeouts."
+type = "package"
+
+[[project]]
+name = "ipfs-connect"
+language = "go"
+tag = "p2p"
+description = "Easily connect two computers in the IPFS."
+type = "tool"
+
+[[project]]
+name = "midi2midi"
+language = "javascript"
+tag = "music"
+description = "Use Chrome to connect two MIDI devices using <100 lines of Javascript."
+type = "website"
+
+
+[[project]]
+name = "googleit"
+language = "go"
+tag = "web"
+description = "Get results from search engines."
+type = "package"
+
+[[project]]
+name = "carp"
+language = "javascript"
+tag = "music"
+description = "Browser-based Korg NTS-1 chord arpeggiator (carp) sequencer."
+type = "website"
+
+[[project]]
+name = "basicwebsocket"
+language = "go"
+tag = "web"
+description = "Copy-and-paste friendly practical implementation of websockets for Go."
+type = "package"
+
+
+[[project]]
+name = "fbdb"
+language = "go"
+tag = "keystore"
+description = "File based database, a keystore based on sqlite."
+type = "package"
+
+
+[[project]]
+name = "topscience"
+language = "go"
+tag = "science"
+description = "Markov-chain generation of science article names."
+type = "website"
+
+
+[[project]]
+name = "ipfs-multigateway"
+language = "go"
+tag = "p2p"
+description = "An IPFS gateway that uses all the other gateways to make it go as fast as possible."
+type = "api"
+
+[[project]]
+name = "utfdecode"
+language = "go"
+tag = "strings"
+description = "A simple library to decode a string that contains escaped UTF-16/32 characters into unescaped UTF-16."
+type = "package"
+
+
+
+[[project]]
+name = "logue"
+language = "c"
+tag = "music"
+description = "A collection of Korg logue patches for the NTS-1 (or possibly minilogue XD)."
+type = "package"
+
+[[project]]
+name = "sundial"
+language = "c"
+tag = "math"
+description = "C program to get the next time of the sunset and sunrise."
+type = "tool"
+
+[[project]]
+name = "utfdecode"
+language = "go"
+tag = "strings"
+description = "A simple library to decode a string that contains escaped UTF-16/32 characters into unescaped UTF-16."
+type = "package"
+
+[[project]]
+name = "getlinks"
+language = "go"
+tag = "web"
+description = "A simple Go library to get all the links from an HTML page."
+type = "package"
+
+[[project]]
+name = "painthex"
+language = "go"
+tag = "art"
+description = "A collection of scripts to turn a set of physical paints into hexadecimal color codes."
+type = "website"
+
+[[project]]
+name = "httppool"
+language = "go"
+tag = "web"
+description = "A simple way to spawn a pool of web clients."
+type = "package"
+
+[[project]]
+name = "documentsimilarity"
+language = "go"
+tag = "strings"
+description = "Compute document similarity using simple methods."
+type = "package"
+
+[[project]]
+name = "tape-synth"
+language = "go"
+tag = "music"
+description = "Instructions to create a cassette synthesizer."
+type = "instruction"
+
+[[project]]
+name = "qrgen"
+language = "go"
+tag = "qr"
+description = "Generate a QR code in ther terminal from stdin."
+type = "tool"
+
+[[project]]
+name = "boltstore"
+language = "go"
+tag = "keystore"
+description = "A simple keystore written around Bolt."
+type = "package"
+
+[[project]]
+name = "chords"
+language = "javascript"
+tag = "music"
+description = "Chord-progression discovery tool."
+type = "website"
+
+[[project]]
+name = "colorfade"
+language = "javascript"
+tag = "art"
+description = "Fade screens between colors in sync."
+type = "website"
+
+[[project]]
+name = "BandGenerator"
+language = "java"
+tag = "music"
+description = "Band-name generator, one of my first programs ever written."
+type = "tool"
+
+
+[[project]]
+name = "blndr"
+language = "lua"
+tag = "music"
+description = "A quantized delay for monomes norns."
+type = "package"
+
