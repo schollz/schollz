@@ -65,14 +65,14 @@ type = "package"
 [[project]]
 name = "PIanoAI"
 language = "go"
-tag = "ai"
+tag = "music"
 description = "A real-time piano playing AI."
 type = "tool"
 
 [[project]]
 name = "poetry-generator"
 language = "python"
-tag = "ai"
+tag = "art"
 description = "A poetry generating AI."
 type = "website"
 
@@ -423,14 +423,6 @@ language = "go"
 tag = "p2p"
 description = "An IPFS gateway that uses all the other gateways to make it go as fast as possible."
 type = "api"
-
-[[project]]
-name = "utfdecode"
-language = "go"
-tag = "strings"
-description = "A simple library to decode a string that contains escaped UTF-16/32 characters into unescaped UTF-16."
-type = "package"
-
 
 
 [[project]]
