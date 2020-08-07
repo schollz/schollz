@@ -34,6 +34,13 @@ description = "A minimalist cms that allows easy writing and reading."
 type = "website"
 
 [[project]]
+name = "i.rwtxt"
+language = "go"
+tag = "cms"
+description = "A version of rwtxt that stays encrypted on disk."
+type = "website"
+
+[[project]]
 name = "cowyo"
 language = "go"
 tag = "cms"
@@ -108,7 +115,7 @@ type = "tool"
 [[project]]
 name = "jsonstore"
 language = "go"
-tag = "keystore"
+tag = "database"
 description = "Simple thread-safe in-memory JSON key-store with persistent backend."
 type = "package"
 
@@ -288,7 +295,7 @@ type = "tool"
 [[project]]
 name = "sqlite3dump"
 language = "go"
-tag = "sql"
+tag = "database"
 description = "A Golang library for dumping SQL text from sqlite."
 type = "package"
 
@@ -302,14 +309,14 @@ type = "tool"
 [[project]]
 name = "boltdb-server"
 language = "go"
-tag = "keystore"
+tag = "database"
 description = "Server and Go package for connecting to BoltDB databases."
 type = "api"
 
 [[project]]
 name = "quotation-explorer"
 language = "go"
-tag = "quotes"
+tag = "art"
 description = "Explore and search over 120,000 quotations, with the click of a mouse ."
 type = "website"
 
@@ -346,7 +353,7 @@ type = "tool"
 [[project]]
 name = "logger"
 language = "go"
-tag = "logging"
+tag = "tooling"
 description = "Simplistic, opinionated logging for Golang."
 type = "package"
 
@@ -360,7 +367,7 @@ type = "instruction"
 [[project]]
 name = "golock"
 language = "go"
-tag = "file-system"
+tag = "tooling"
 description = "Very simple file locking with optional timeouts."
 type = "package"
 
@@ -404,7 +411,7 @@ type = "package"
 [[project]]
 name = "fbdb"
 language = "go"
-tag = "keystore"
+tag = "database"
 description = "File based database, a keystore based on sqlite."
 type = "package"
 
@@ -412,9 +419,16 @@ type = "package"
 [[project]]
 name = "topscience"
 language = "go"
-tag = "science"
+tag = "art"
 description = "Markov-chain generation of science article names."
 type = "website"
+
+[[project]]
+name = "instructions"
+language = "go"
+tag = "recipe"
+description = "Easily capture recipe instructions from any website."
+type = "package"
 
 
 [[project]]
@@ -484,14 +498,14 @@ type = "instruction"
 [[project]]
 name = "qrgen"
 language = "go"
-tag = "qr"
+tag = "file-sharing"
 description = "Generate a QR code in ther terminal from stdin."
 type = "tool"
 
 [[project]]
 name = "boltstore"
 language = "go"
-tag = "keystore"
+tag = "database"
 description = "A simple keystore written around Bolt."
 type = "package"
 
