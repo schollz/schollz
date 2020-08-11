@@ -530,11 +530,18 @@ tag = "music"
 description = "Band-name generator, one of my first programs ever written."
 type = "tool"
 
-
 [[project]]
 name = "blndr"
 language = "lua"
 tag = "music"
 description = "A quantized delay for monomes norns."
+type = "package"
+
+
+[[project]]
+name = "barcode"
+language = "lua"
+tag = "music"
+description = "A six-voice varispeed looper for monomes norns."
 type = "package"
 
