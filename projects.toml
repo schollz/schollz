@@ -1,3 +1,11 @@
+
+[[project]]
+name = "github-backup"
+language = "python"
+tag = "web"
+description = "A python script to automatically backup all your Github repositories"
+type = "tool"
+
 [[project]]
 name = "howmanypeoplearearound"
 language = "python"
