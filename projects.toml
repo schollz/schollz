@@ -547,6 +547,22 @@ type = "package"
 
 
 [[project]]
+name = "clcks"
+language = "lua"
+tag = "music"
+description = "A quantized repeater for monomes norns."
+type = "package"
+
+
+[[project]]
+name = "oooooo"
+language = "lua"
+tag = "music"
+description = "Set of digital tape loops monomes norns."
+type = "package"
+
+
+[[project]]
 name = "barcode"
 language = "lua"
 tag = "music"
