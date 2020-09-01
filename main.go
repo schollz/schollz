@@ -31,10 +31,10 @@ func main() {
 	f, _ := os.Create("README.md")
 	defer f.Close()
 	f.WriteString(`
-# projects
+# Repo Index
 
-Over the past few years I've released over a hundred projects.
-These are the ` + fmt.Sprint(len(projects.P)) + ` projects that I enjoy the most and actively work to improve.
+These are not all my projects.
+These are just the ` + fmt.Sprint(len(projects.P)) + ` projects that I enjoy the most and actively work to improve.
 `)
 
 	// tag -> type -> project
