@@ -569,3 +569,11 @@ tag = "music"
 description = "A six-voice varispeed looper for monomes norns."
 type = "package"
 
+
+[[project]]
+name = "midi2cv"
+language = "python"
+tag = "music"
+description = "Use a Raspberry Pi and Python script to automatically tune and convert MIDI to CV."
+type = "tool"
+
