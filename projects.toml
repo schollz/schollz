@@ -541,7 +541,7 @@ type = "tool"
 [[project]]
 name = "blndr"
 language = "lua"
-tag = "music"
+tag = "norns"
 description = "A quantized delay for monomes norns."
 type = "package"
 
@@ -549,7 +549,7 @@ type = "package"
 [[project]]
 name = "clcks"
 language = "lua"
-tag = "music"
+tag = "norns"
 description = "A quantized repeater for monomes norns."
 type = "package"
 
@@ -557,28 +557,28 @@ type = "package"
 [[project]]
 name = "oooooo"
 language = "lua"
-tag = "music"
+tag = "norns"
 description = "Set of digital tape loops monomes norns."
 type = "package"
 
 [[project]]
 name = "barcode"
 language = "lua"
-tag = "music"
+tag = "norns"
 description = "A six-voice varispeed looper for monomes norns."
 type = "package"
 
 [[project]]
 name = "piwip"
 language = "lua"
-tag = "music"
+tag = "norns"
 description = "A realtime sampler for monomes norns."
 type = "package"
 
 [[project]]
 name = "glitchlets"
 language = "lua"
-tag = "music"
+tag = "norns"
 description = "A realtime glitching effect for monomes norns."
 type = "package"
 
