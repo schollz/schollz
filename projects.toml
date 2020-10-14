@@ -561,13 +561,28 @@ tag = "music"
 description = "Set of digital tape loops monomes norns."
 type = "package"
 
-
 [[project]]
 name = "barcode"
 language = "lua"
 tag = "music"
 description = "A six-voice varispeed looper for monomes norns."
 type = "package"
+
+[[project]]
+name = "piwip"
+language = "lua"
+tag = "music"
+description = "A realtime sampler for monomes norns."
+type = "package"
+
+[[project]]
+name = "glitchlets"
+language = "lua"
+tag = "music"
+description = "A realtime glitching effect for monomes norns."
+type = "package"
+
+
 
 
 [[project]]
